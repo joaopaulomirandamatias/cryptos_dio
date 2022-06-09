@@ -4,11 +4,22 @@ O Flutter é um framework, da linguagem de programação Dart, utilizado para de
 
 #### INDICAÇÃO DE LEITURA
 
+##### Flutter
 <div style="display:flex; justify-content:center;" >
+ <a href="https://amzn.to/3mA1TnQ" target="_blank">
+ <img src=".github/iniciando_flutter.jpg" alt="Iniciando com Flutter Framework" height="230" width="150"> </a>
+
  <a href="https://amzn.to/398Pm7P" target="_blank">
- <img src="[.github/2.jpeg](https://m.media-amazon.com/images/I/41ok2TDBJ6L.jpg)" alt="Aprofundando em Flutter" height="300" width="180"> 
+ <img src=".github/aprofundando.jpg" alt="Aprofundando em Flutter" height="230" width="150"> </a>
 </div>
 
+##### Dart
+<div style="display:flex; justify-content:center;" >
+ <a href="https://amzn.to/3xCqPS3" target="_blank">
+ <img src=".github/dart1.jpg" alt="O guia de Dart" height="230" width="150"> </a>
+
+</div>
+<div><p>OBS: Link afiliado ao Amazon.</p></div>
 
 
 #### ARTIGOS RELACIONADOS
